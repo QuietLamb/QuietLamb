@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">School : Above & Beyond<br>Career : Software Engineering<br><br>My Notion :</p>
+<p align="left">School : Above & Beyond<br>Career : Software Engineering<br><br>My Notion : <a href="https://www.notion.so/202906bdb2d2804f818ec7a58d87e67b?v=202906bdb2d280b18074000cc6247cd1&source=copy_link">QuietLamb</a></p>
 
 ###
 
